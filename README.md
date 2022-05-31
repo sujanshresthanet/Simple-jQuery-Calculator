@@ -14,7 +14,7 @@ We also include jQuery in our project with the following code:-
 
 and we include custom jQuery code in our project with the following code:-
 
-`<script src="js/jquery-3.6.0.js"></script>`
+`<script src="js/custom.js"></script>`
 
 **Index.html file**
 
