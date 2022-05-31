@@ -18,7 +18,7 @@ and we include custom jQuery code in our project with the following code:-
 
 **Index.html file**
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -68,7 +68,7 @@ and we include custom jQuery code in our project with the following code:-
 
 **style.css file**
 
-```
+```css
 body {
   margin: 4% auto;
   width: 500px;
@@ -186,7 +186,7 @@ div.equal:active {
 ```
 
 **custom.js file:-**
-```
+```js
 // wanted to try recoding this using jQuery
 $(document).ready(function() {
   // ultimately, this calculator should take two values and perform a given operation. Future versions could include better handling of multiple operations / chains of operations, but this shouldn't, as it would require a lot of regex and students don't have that.
